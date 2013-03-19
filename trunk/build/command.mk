@@ -1,0 +1,15 @@
+RM				?=	$(shell which rm)
+CP				?=	$(shell which cp)
+TAR				?=	$(shell which tar)
+ZIP				?=	$(shell which zip)
+INSTALL			?=	$(shell which install) -m 0644
+INSTALL_DATA	?=	$(shell which install) -m 0644
+INSTALL_BIN		?=	$(shell which install) -m 0755
+INSTALL_DIR		?=	$(shell which install) -d -m 0755
+GIT				?=	$(shell which git)
+BZIP2			?=	$(shell which bzip2)
+ASCIIDOC		?=	$(shell which asciidoc)
+A2X				?=	$(shell which a2x)
+SED				?=	$(shell which sed)
+MKDIR			?=	$(shell which mkdir)
+TOUCH			?=	$(shell which touch)

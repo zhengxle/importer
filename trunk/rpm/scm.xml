@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<bases> 
+  <scm version="1.0"> 
+    <app> 
+      <corp>一淘</corp>  
+      <deptment> 
+        <main>广告技术</main>  
+        <sub>联盟技术</sub>  
+        <three/> 
+      </deptment>  
+      <line> 
+        <main>广告淘宝联盟</main>  
+        <sub>淘宝联盟</sub> 
+      </line>  
+      <name>tairFileImporter</name>  
+      <codetype>C/C++</codetype>  
+      <connection>http://svn.simba.taobao.com/svn/Engine/tunion/tairfileimporter/trunk/</connection>  
+      <owner>xiaoliang.zxl</owner> 
+    </app>  
+    <app> 
+      <corp>一淘</corp>  
+      <deptment> 
+        <main>广告技术</main>  
+        <sub>联盟技术</sub> 
+      </deptment>  
+      <line> 
+        <main>广告淘宝联盟</main>  
+        <sub>淘宝联盟</sub> 
+      </line>  
+      <name>t-union-tairfileimporter</name>  
+      <connection>http://svn.simba.taobao.com/svn/Engine/tunion/tairfileimporter/trunk/</connection> 
+    </app> 
+  </scm> 
+</bases>
